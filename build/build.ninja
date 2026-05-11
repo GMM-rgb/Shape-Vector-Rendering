@@ -65,6 +65,14 @@ build CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj: CXX_COMPIL
   OBJECT_FILE_DIR = CMakeFiles\ShapeVectorRendering.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\ShapeVectorRendering.dir
 
+build CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj: CXX_COMPILER__ShapeVectorRendering_unscanned_Debug C$:/Users/6041464/Documents/ShapeVectorRendering/src/lib/graphic_computation_storage.cc || cmake_object_order_depends_target_ShapeVectorRendering
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\ShapeVectorRendering.dir\src\lib\graphic_computation_storage.cc.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\ShapeVectorRendering.dir
+  OBJECT_FILE_DIR = CMakeFiles\ShapeVectorRendering.dir\src\lib
+  TARGET_SUPPORT_DIR = CMakeFiles\ShapeVectorRendering.dir
+
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target ShapeVectorRendering
@@ -73,7 +81,7 @@ build CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj: CXX_COMPIL
 #############################################
 # Link the static library libShapeVectorRendering.a
 
-build libShapeVectorRendering.a: CXX_STATIC_LIBRARY_LINKER__ShapeVectorRendering_Debug CMakeFiles/ShapeVectorRendering.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj
+build libShapeVectorRendering.a: CXX_STATIC_LIBRARY_LINKER__ShapeVectorRendering_Debug CMakeFiles/ShapeVectorRendering.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj
   CONFIG = Debug
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\ShapeVectorRendering.dir

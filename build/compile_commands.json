@@ -10,5 +10,11 @@
   "command": "C:\\Users\\6041464\\_C_\\bin\\ccache-g++.exe -g -o CMakeFiles\\ShapeVectorRendering.dir\\src\\core_component.cpp.obj -c C:\\Users\\6041464\\Documents\\ShapeVectorRendering\\src\\core_component.cpp",
   "file": "C:/Users/6041464/Documents/ShapeVectorRendering/src/core_component.cpp",
   "output": "C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj"
+},
+{
+  "directory": "C:/Users/6041464/Documents/ShapeVectorRendering/build",
+  "command": "C:\\Users\\6041464\\_C_\\bin\\ccache-g++.exe -g -o CMakeFiles\\ShapeVectorRendering.dir\\src\\lib\\graphic_computation_storage.cc.obj -c C:\\Users\\6041464\\Documents\\ShapeVectorRendering\\src\\lib\\graphic_computation_storage.cc",
+  "file": "C:/Users/6041464/Documents/ShapeVectorRendering/src/lib/graphic_computation_storage.cc",
+  "output": "C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj"
 }
 ]

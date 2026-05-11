@@ -1,0 +1,3 @@
+namespace ArrayConstructor {
+    double CreateArray();
+}
