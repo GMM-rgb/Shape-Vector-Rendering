@@ -1,0 +1,3 @@
+C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/ShapeVectorRendering.dir
+C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/edit_cache.dir
+C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/rebuild_cache.dir

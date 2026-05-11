@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/6041464/Documents/ShapeVectorRendering/build",
+  "command": "C:\\Users\\6041464\\_C_\\bin\\ccache-g++.exe -g -o CMakeFiles\\ShapeVectorRendering.dir\\CMakeFiles\\4.3.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\Users\\6041464\\Documents\\ShapeVectorRendering\\build\\CMakeFiles\\4.3.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "file": "C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/ShapeVectorRendering.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
+},
+{
+  "directory": "C:/Users/6041464/Documents/ShapeVectorRendering/build",
+  "command": "C:\\Users\\6041464\\_C_\\bin\\ccache-g++.exe -g -o CMakeFiles\\ShapeVectorRendering.dir\\src\\core_component.cpp.obj -c C:\\Users\\6041464\\Documents\\ShapeVectorRendering\\src\\core_component.cpp",
+  "file": "C:/Users/6041464/Documents/ShapeVectorRendering/src/core_component.cpp",
+  "output": "C:/Users/6041464/Documents/ShapeVectorRendering/build/CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj"
+}
+]
