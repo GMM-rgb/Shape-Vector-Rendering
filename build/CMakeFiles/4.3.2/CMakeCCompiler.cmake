@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "C:/Users/6041464/_C_/bin/ccache-gcc.exe")
+set(CMAKE_C_COMPILER "C:/Users/maxim/_C_/bin/cc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_COMPILER_VERSION "16.1.0")
@@ -24,14 +24,14 @@ set(CMAKE_C_COMPILER_ARCHITECTURE_ID "x86_64")
 
 
 
-set(CMAKE_AR "C:/Users/6041464/_C_/bin/ar.exe")
-set(CMAKE_C_COMPILER_AR "CMAKE_C_COMPILER_AR-NOTFOUND")
-set(CMAKE_RANLIB "C:/Users/6041464/_C_/bin/ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "CMAKE_C_COMPILER_RANLIB-NOTFOUND")
-set(CMAKE_LINKER "C:/Users/6041464/_C_/bin/ld.exe")
+set(CMAKE_AR "C:/Users/maxim/_C_/bin/ar.exe")
+set(CMAKE_C_COMPILER_AR "C:/Users/maxim/_C_/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "C:/Users/maxim/_C_/bin/ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "C:/Users/maxim/_C_/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/Users/maxim/_C_/bin/ld.exe")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
-set(CMAKE_C_COMPILER_LINKER "C:/Users/6041464/_C_/bin/ld.exe")
+set(CMAKE_C_COMPILER_LINKER "C:/Users/maxim/_C_/bin/ld.exe")
 set(CMAKE_C_COMPILER_LINKER_ID "GNU")
 set(CMAKE_C_COMPILER_LINKER_VERSION 2.46.0.20260210)
 set(CMAKE_C_COMPILER_LINKER_FRONTEND_VARIANT GNU)
@@ -79,7 +79,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/6041464/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0/include;C:/Users/6041464/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed;C:/Users/6041464/_C_/include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/maxim/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0/include;C:/Users/maxim/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed;C:/Users/maxim/_C_/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;mingwex;kernel32")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/6041464/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0;C:/Users/6041464/_C_/lib/gcc;C:/Users/6041464/_C_/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/maxim/_C_/lib/gcc/x86_64-w64-mingw32/16.1.0;C:/Users/maxim/_C_/lib/gcc;C:/Users/maxim/_C_/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

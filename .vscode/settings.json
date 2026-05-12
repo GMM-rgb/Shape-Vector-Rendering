@@ -1,0 +1,8 @@
+{
+    "[cpp]": {
+        "editor.semanticHighlighting.enabled": true,
+        "editor.wordBasedSuggestions": "currentDocument",
+        "editor.stickyScroll.defaultModel": "foldingProviderModel",
+        "editor.suggest.insertMode": "replace"
+    }
+}

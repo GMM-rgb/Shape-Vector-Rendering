@@ -1,9 +1,0 @@
-# ninja log v7
-34	113	8002268599632809	CMakeFiles/ShapeVectorRendering.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj	3096607e549bde82
-19	1395	8002262740629887	CMakeFiles/ShapeVectorRendering.dir/src/core_component.cpp.obj	547ac615809f198d
-1315	1446	8002268612504414	libShapeVectorRendering.a	1d605892851c019
-45	1314	8002268599792300	CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj	6b9a6c6904f03f87
-8	1555	8002271538409643	CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj	6b9a6c6904f03f87
-1556	1676	8002271553900526	libShapeVectorRendering.a	1d605892851c019
-7	1432	8002273728745628	CMakeFiles/ShapeVectorRendering.dir/src/lib/graphic_computation_storage.cc.obj	6b9a6c6904f03f87
-1433	1539	8002273742993914	libShapeVectorRendering.a	1d605892851c019
