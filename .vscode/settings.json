@@ -1,8 +1,11 @@
 {
-    "[cpp]": {
-        "editor.semanticHighlighting.enabled": true,
-        "editor.wordBasedSuggestions": "currentDocument",
-        "editor.stickyScroll.defaultModel": "foldingProviderModel",
-        "editor.suggest.insertMode": "replace"
-    }
+  "[cpp]": {
+    "editor.semanticHighlighting.enabled": true,
+    "editor.wordBasedSuggestions": "currentDocument",
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.fontSize": 16,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "monospace"
 }
