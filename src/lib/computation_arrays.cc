@@ -1,16 +1,41 @@
 #define activeBuffers = {};
-
+///
 #include "../_ReferenceHeadings/VALUE_CHECKSUMS.h"
-
+///
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
 
-enum ObjectReference
+namespace GlobalObjectEnums
 {
+    enum ObjectReference
+    {
+        OBJECT_TYPE_NAME = 1,
+        OBJECT_VALUES = 2,
+        _OBJECT_ID = 3,
+        _PROPERTIES = 4,
+    };
+}
 
-};
+// class IsInstance {
+//     public:
+//         bool CompareMatch;
+
+//         // const i = calloc
+
+//         IsInstance() {
+
+//         }
+// };
+
+namespace ObjectValidator {
+    template<typename ChecksumValue, typename SourceReference> bool IsInstance(const SourceReference FromSource) {
+        if (FromSource != NULL && !isblank(FromSource)) {
+
+        }
+    }
+}
 
 /**
  * ---
@@ -35,10 +60,13 @@ namespace ArrayConstructor
         inline void IterateArrayBuffer(int *object)
         {
             const bool isArrayObjectValid = object ? true : false;
+
             if ((int)isArrayObjectValid != isBoolean(isArrayObjectValid))
                 return;
             if (!isArrayObjectValid)
                 return;
+
+            
         }
     };
 
